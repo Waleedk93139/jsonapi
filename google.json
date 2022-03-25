@@ -1,1 +1,5 @@
-{"other":1234"year":2016"value":"time":"05"}
+{
+    "fruit": "Apple",
+    "size": "Large",
+    "color": "Red"
+}
